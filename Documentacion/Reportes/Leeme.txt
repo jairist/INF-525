@@ -1,0 +1,6 @@
+Saludos.
+
+Los reportes son los 3 archivos .PDF
+
+Los script .sql son los script utilizados para los reportes.
+Las imágenes .png son capturas de pantallas corriendo los scripts
